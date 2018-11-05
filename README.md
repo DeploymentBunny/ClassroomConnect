@@ -1,5 +1,5 @@
 # Classroom Connect
-Johan Arwidmark needed a solution to connect in varius ways to our student training machines.
+Johan Arwidmark and I needed a solution to connect in varius ways to our student training machines.
 - Remote Desktop
 - Remote Desktop using a Shadow session
 - Remote Assistance
