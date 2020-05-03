@@ -1,5 +1,6 @@
 # Classroom Connect
-Johan Arwidmark and I needed a solution to connect in varius ways to our student training machines.
+Johan Arwidmark and I, needed a solution to connect in various ways to our student's training machines.
+These are:
 - Remote Desktop
 - Remote Desktop using a Shadow session
 - Remote Assistance
